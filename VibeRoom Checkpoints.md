@@ -25,8 +25,6 @@
 	- [ ]  Integrate monitoring/logging tools (e.g., Sentry, Prometheus) `#task #ci #monitoring`
 	    
 
-- [ ] ---
-
 - [ ] ## 2. Edge Case Testing for Latency
 
 - [ ] ### Network Simulation
@@ -51,8 +49,6 @@
 	    
 	- [ ]  Establish a benchmark latency baseline for reference `#task #latency #baseline`
     
-
-- [ ] ---
 
 - [ ] ## 3. Mediasoup Optimization for Low Latency Jamming
 
@@ -79,8 +75,6 @@
 	- [ ]  Optimize edge server placement for minimal latency `#task #mediasoup #infra`
 	    
 
-- [ ] ---
-
 - [ ] ## 4. Producer & Consumer Controls
 
 	- [ ]  Implement mute/unmute and volume controls `#task #controls #audio`
@@ -93,8 +87,6 @@
 	    
 	- [ ]  Handle permission errors gracefully with fallbacks `#task #controls #permissions`
     
-
-- [ ] ---
 
 - [ ] ## 5. UI/UX Optimization
 
@@ -116,8 +108,6 @@
 	- [ ]  Ensure full support for dark/light modes `#task #ux #theme`
 	    
 
-- [ ] ---
-
 - [ ] ## 6. Integration with Highloka Pipeline
 
 	- [ ]  Review and document existing Highloka architecture `#task #integration #research`
@@ -137,5 +127,4 @@
     - [ ]  Playback/preview functionality `#task #integration #playback`
         
 
-- [ ] ---
 
